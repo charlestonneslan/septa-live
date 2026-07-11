@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-11T06:00:14.944Z",
-  "totalSnapshots": 129,
+  "generatedAt": "2026-07-11T08:13:17.623Z",
+  "totalSnapshots": 130,
   "coverageStart": "2026-06-14T20:11:09.217Z",
   "headline": {
-    "ts": "2026-07-11T06:00:14.927Z",
+    "ts": "2026-07-11T08:13:17.593Z",
     "trainsInService": 1,
     "onTimePct": 100,
     "avgDelay": 1,
@@ -90,8 +90,8 @@
     {
       "line": "AIR",
       "avgTrainsPerSample": 2.4,
-      "onTimePct": 39.4,
-      "avgDelay": 164.41,
+      "onTimePct": 39.7,
+      "avgDelay": 163.37,
       "majorDelays": 39
     },
     {
@@ -129,9 +129,9 @@
     },
     {
       "hour": 4,
-      "onTimePct": 75,
-      "avgDelay": 2,
-      "samples": 1
+      "onTimePct": 87.5,
+      "avgDelay": 1.5,
+      "samples": 2
     },
     {
       "hour": 5,
