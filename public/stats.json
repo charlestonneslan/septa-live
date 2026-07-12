@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-12T19:48:30.752Z",
-  "totalSnapshots": 157,
+  "generatedAt": "2026-07-12T20:36:47.782Z",
+  "totalSnapshots": 158,
   "coverageStart": "2026-06-14T20:11:09.217Z",
   "headline": {
-    "ts": "2026-07-12T19:48:30.736Z",
-    "trainsInService": 38,
-    "onTimePct": 13.2,
-    "avgDelay": 531.61,
-    "majorDelays": 30
+    "ts": "2026-07-12T20:36:47.764Z",
+    "trainsInService": 44,
+    "onTimePct": 13.6,
+    "avgDelay": 551.09,
+    "majorDelays": 34
   },
   "lines": [
     {
@@ -20,30 +20,23 @@
     {
       "line": "NOR",
       "avgTrainsPerSample": 2.3,
-      "onTimePct": 55,
-      "avgDelay": 56.63,
-      "majorDelays": 30
+      "onTimePct": 54.4,
+      "avgDelay": 56.71,
+      "majorDelays": 31
     },
     {
       "line": "WAR",
       "avgTrainsPerSample": 2.9,
-      "onTimePct": 46.3,
-      "avgDelay": 171.93,
-      "majorDelays": 71
+      "onTimePct": 45.6,
+      "avgDelay": 175.67,
+      "majorDelays": 73
     },
     {
       "line": "LAN",
-      "avgTrainsPerSample": 4.1,
-      "onTimePct": 46,
-      "avgDelay": 92.79,
-      "majorDelays": 102
-    },
-    {
-      "line": "MED",
-      "avgTrainsPerSample": 2.8,
-      "onTimePct": 44.2,
-      "avgDelay": 33.28,
-      "majorDelays": 56
+      "avgTrainsPerSample": 4.2,
+      "onTimePct": 45.3,
+      "avgDelay": 101.02,
+      "majorDelays": 106
     },
     {
       "line": "WIL",
@@ -53,18 +46,25 @@
       "majorDelays": 42
     },
     {
+      "line": "MED",
+      "avgTrainsPerSample": 2.8,
+      "onTimePct": 43.5,
+      "avgDelay": 33.24,
+      "majorDelays": 58
+    },
+    {
       "line": "WTR",
       "avgTrainsPerSample": 2.3,
-      "onTimePct": 43,
-      "avgDelay": 110.83,
-      "majorDelays": 43
+      "onTimePct": 43.3,
+      "avgDelay": 105.81,
+      "majorDelays": 41
     },
     {
       "line": "CHE",
       "avgTrainsPerSample": 2.3,
-      "onTimePct": 41.4,
-      "avgDelay": 226.12,
-      "majorDelays": 59
+      "onTimePct": 40.7,
+      "avgDelay": 249.25,
+      "majorDelays": 64
     },
     {
       "line": "CHW",
@@ -76,30 +76,30 @@
     {
       "line": "AIR",
       "avgTrainsPerSample": 2.2,
-      "onTimePct": 38.2,
-      "avgDelay": 141.9,
-      "majorDelays": 57
+      "onTimePct": 38.4,
+      "avgDelay": 131.53,
+      "majorDelays": 56
     },
     {
       "line": "FOX",
       "avgTrainsPerSample": 1.6,
-      "onTimePct": 38.2,
-      "avgDelay": 428.71,
-      "majorDelays": 51
+      "onTimePct": 37.5,
+      "avgDelay": 421.66,
+      "majorDelays": 52
     },
     {
       "line": "PAO",
-      "avgTrainsPerSample": 4.6,
-      "onTimePct": 34.5,
-      "avgDelay": 349.92,
-      "majorDelays": 183
+      "avgTrainsPerSample": 4.7,
+      "onTimePct": 33.3,
+      "avgDelay": 367.5,
+      "majorDelays": 192
     },
     {
       "line": "TRE",
       "avgTrainsPerSample": 2.8,
-      "onTimePct": 31.4,
-      "avgDelay": 148.79,
-      "majorDelays": 74
+      "onTimePct": 31.5,
+      "avgDelay": 144.97,
+      "majorDelays": 73
     }
   ],
   "hourly": [
@@ -195,15 +195,15 @@
     },
     {
       "hour": 15,
-      "onTimePct": 10.9,
-      "avgDelay": 404.11,
-      "samples": 2
+      "onTimePct": 13.2,
+      "avgDelay": 531.61,
+      "samples": 1
     },
     {
       "hour": 16,
-      "onTimePct": 5.3,
-      "avgDelay": 331,
-      "samples": 1
+      "onTimePct": 9.4,
+      "avgDelay": 441.05,
+      "samples": 2
     },
     {
       "hour": 17,
