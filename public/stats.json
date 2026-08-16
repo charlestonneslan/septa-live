@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-16T13:43:01.103Z",
-  "totalSnapshots": 782,
+  "generatedAt": "2026-08-16T13:59:45.167Z",
+  "totalSnapshots": 783,
   "coverageStart": "2026-06-14T20:11:09.217Z",
   "headline": {
-    "ts": "2026-08-16T13:43:01.078Z",
-    "trainsInService": 20,
-    "onTimePct": 70,
-    "avgDelay": 1.9,
-    "majorDelays": 0
+    "ts": "2026-08-16T13:59:45.149Z",
+    "trainsInService": 19,
+    "onTimePct": 78.9,
+    "avgDelay": 2.16,
+    "majorDelays": 1
   },
   "lines": [
     {
       "line": "WAR",
       "avgTrainsPerSample": 2.4,
-      "onTimePct": 69.5,
-      "avgDelay": 6.11,
+      "onTimePct": 69.7,
+      "avgDelay": 6.1,
       "majorDelays": 37
     },
     {
@@ -41,16 +41,16 @@
     {
       "line": "MED",
       "avgTrainsPerSample": 2.4,
-      "onTimePct": 59.4,
-      "avgDelay": 55.33,
+      "onTimePct": 59.6,
+      "avgDelay": 55.32,
       "majorDelays": 69
     },
     {
       "line": "FOX",
       "avgTrainsPerSample": 1.5,
-      "onTimePct": 56.9,
-      "avgDelay": 176.21,
-      "majorDelays": 49
+      "onTimePct": 56.6,
+      "avgDelay": 175.4,
+      "majorDelays": 50
     },
     {
       "line": "WIL",
@@ -69,8 +69,8 @@
     {
       "line": "WTR",
       "avgTrainsPerSample": 2.1,
-      "onTimePct": 51.1,
-      "avgDelay": 67.61,
+      "onTimePct": 51.4,
+      "avgDelay": 67.6,
       "majorDelays": 76
     },
     {
@@ -83,16 +83,16 @@
     {
       "line": "AIR",
       "avgTrainsPerSample": 2.2,
-      "onTimePct": 45.5,
-      "avgDelay": 167.56,
+      "onTimePct": 45.8,
+      "avgDelay": 167.55,
       "majorDelays": 120
     },
     {
       "line": "TRE",
       "avgTrainsPerSample": 2.6,
-      "onTimePct": 39,
-      "avgDelay": 104,
-      "majorDelays": 154
+      "onTimePct": 39.2,
+      "avgDelay": 103.96,
+      "majorDelays": 153
     },
     {
       "line": "CYN",
@@ -159,8 +159,8 @@
     },
     {
       "hour": 9,
-      "onTimePct": 70.7,
-      "avgDelay": 3.56,
+      "onTimePct": 68.9,
+      "avgDelay": 2.48,
       "samples": 3
     },
     {
