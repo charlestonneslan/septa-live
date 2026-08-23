@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-23T09:40:30.357Z",
-  "totalSnapshots": 1068,
+  "generatedAt": "2026-08-23T09:58:26.581Z",
+  "totalSnapshots": 1069,
   "coverageStart": "2026-06-14T20:11:09.217Z",
   "headline": {
-    "ts": "2026-08-23T09:40:30.320Z",
-    "trainsInService": 12,
-    "onTimePct": 58.3,
-    "avgDelay": 2.33,
-    "majorDelays": 0
+    "ts": "2026-08-23T09:58:26.551Z",
+    "trainsInService": 11,
+    "onTimePct": 45.5,
+    "avgDelay": 3.27,
+    "majorDelays": 1
   },
   "lines": [
     {
@@ -20,22 +20,22 @@
     {
       "line": "LAN",
       "avgTrainsPerSample": 3.7,
-      "onTimePct": 63.1,
+      "onTimePct": 63,
       "avgDelay": 72.63,
       "majorDelays": 123
     },
     {
       "line": "AIR",
       "avgTrainsPerSample": 1.8,
-      "onTimePct": 62,
-      "avgDelay": 7.44,
+      "onTimePct": 61.8,
+      "avgDelay": 7.45,
       "majorDelays": 35
     },
     {
       "line": "CHE",
       "avgTrainsPerSample": 2.1,
-      "onTimePct": 61.4,
-      "avgDelay": 50.83,
+      "onTimePct": 61.3,
+      "avgDelay": 50.93,
       "majorDelays": 67
     },
     {
@@ -68,9 +68,9 @@
     },
     {
       "line": "PAO",
-      "avgTrainsPerSample": 3.6,
-      "onTimePct": 55.4,
-      "avgDelay": 105.34,
+      "avgTrainsPerSample": 3.5,
+      "onTimePct": 55.3,
+      "avgDelay": 105.45,
       "majorDelays": 191
     },
     {
@@ -84,8 +84,8 @@
       "line": "TRE",
       "avgTrainsPerSample": 2.8,
       "onTimePct": 40.3,
-      "avgDelay": 211.09,
-      "majorDelays": 282
+      "avgDelay": 211.07,
+      "majorDelays": 281
     },
     {
       "line": "CHW",
@@ -98,8 +98,8 @@
       "line": "WTR",
       "avgTrainsPerSample": 2.7,
       "onTimePct": 37,
-      "avgDelay": 189.81,
-      "majorDelays": 269
+      "avgDelay": 189.82,
+      "majorDelays": 270
     }
   ],
   "hourly": [
@@ -135,8 +135,8 @@
     },
     {
       "hour": 5,
-      "onTimePct": 64.3,
-      "avgDelay": 2.26,
+      "onTimePct": 51.3,
+      "avgDelay": 2.87,
       "samples": 3
     },
     {
