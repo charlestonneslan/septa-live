@@ -1064,3 +1064,4 @@
 {"ts":"2026-08-23T07:33:58.131Z","total":1,"onTime":0,"late3":1,"late10":0,"avgDelay":8,"byLine":{"CHE":{"total":1,"late3":1,"late10":0,"delaySum":8}}}
 {"ts":"2026-08-23T07:59:50.758Z","total":1,"onTime":0,"late3":1,"late10":0,"avgDelay":8,"byLine":{"CHE":{"total":1,"late3":1,"late10":0,"delaySum":8}}}
 {"ts":"2026-08-23T08:35:52.913Z","total":2,"onTime":1,"late3":1,"late10":0,"avgDelay":3,"byLine":{"AIR":{"total":1,"late3":0,"late10":0,"delaySum":1},"WAR":{"total":1,"late3":1,"late10":0,"delaySum":5}}}
+{"ts":"2026-08-23T09:02:10.757Z","total":4,"onTime":2,"late3":2,"late10":0,"avgDelay":3,"byLine":{"AIR":{"total":1,"late3":0,"late10":0,"delaySum":1},"WAR":{"total":2,"late3":2,"late10":0,"delaySum":10},"WIL":{"total":1,"late3":0,"late10":0,"delaySum":1}}}
