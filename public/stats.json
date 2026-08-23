@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-23T17:55:23.996Z",
-  "totalSnapshots": 1088,
+  "generatedAt": "2026-08-23T18:18:33.261Z",
+  "totalSnapshots": 1089,
   "coverageStart": "2026-06-14T20:11:09.217Z",
   "headline": {
-    "ts": "2026-08-23T17:55:23.955Z",
-    "trainsInService": 20,
-    "onTimePct": 70,
-    "avgDelay": 56.5,
-    "majorDelays": 3
+    "ts": "2026-08-23T18:18:33.229Z",
+    "trainsInService": 17,
+    "onTimePct": 64.7,
+    "avgDelay": 64.29,
+    "majorDelays": 4
   },
   "lines": [
     {
@@ -48,7 +48,7 @@
     {
       "line": "WAR",
       "avgTrainsPerSample": 2.9,
-      "onTimePct": 59.1,
+      "onTimePct": 59.2,
       "avgDelay": 172.41,
       "majorDelays": 154
     },
@@ -62,15 +62,15 @@
     {
       "line": "MED",
       "avgTrainsPerSample": 2.4,
-      "onTimePct": 54.8,
-      "avgDelay": 62.72,
-      "majorDelays": 101
+      "onTimePct": 54.6,
+      "avgDelay": 62.74,
+      "majorDelays": 102
     },
     {
       "line": "PAO",
       "avgTrainsPerSample": 3.5,
       "onTimePct": 54.6,
-      "avgDelay": 107.04,
+      "avgDelay": 107.16,
       "majorDelays": 188
     },
     {
@@ -83,9 +83,9 @@
     {
       "line": "TRE",
       "avgTrainsPerSample": 2.8,
-      "onTimePct": 40.4,
-      "avgDelay": 215.06,
-      "majorDelays": 280
+      "onTimePct": 40.3,
+      "avgDelay": 216.35,
+      "majorDelays": 282
     },
     {
       "line": "CHW",
@@ -97,9 +97,9 @@
     {
       "line": "WTR",
       "avgTrainsPerSample": 2.7,
-      "onTimePct": 36.8,
-      "avgDelay": 189.72,
-      "majorDelays": 287
+      "onTimePct": 36.7,
+      "avgDelay": 189.79,
+      "majorDelays": 288
     }
   ],
   "hourly": [
@@ -183,15 +183,15 @@
     },
     {
       "hour": 13,
-      "onTimePct": 68.3,
-      "avgDelay": 42.8,
-      "samples": 4
+      "onTimePct": 69.5,
+      "avgDelay": 56.24,
+      "samples": 3
     },
     {
       "hour": 14,
-      "onTimePct": 60.7,
-      "avgDelay": 3.54,
-      "samples": 2
+      "onTimePct": 62,
+      "avgDelay": 23.79,
+      "samples": 3
     },
     {
       "hour": 15,
