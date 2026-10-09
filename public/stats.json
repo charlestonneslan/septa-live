@@ -1,104 +1,104 @@
 {
-  "generatedAt": "2026-10-09T19:37:02.506Z",
-  "totalSnapshots": 1455,
+  "generatedAt": "2026-10-09T23:28:59.514Z",
+  "totalSnapshots": 1456,
   "coverageStart": "2026-06-14T20:11:09.217Z",
   "headline": {
-    "ts": "2026-10-09T19:37:02.474Z",
-    "trainsInService": 39,
-    "onTimePct": 59,
-    "avgDelay": 54.23,
-    "majorDelays": 4
+    "ts": "2026-10-09T23:28:59.486Z",
+    "trainsInService": 33,
+    "onTimePct": 57.6,
+    "avgDelay": 62.7,
+    "majorDelays": 2
   },
   "lines": [
     {
       "line": "AIR",
       "avgTrainsPerSample": 2,
-      "onTimePct": 65,
-      "avgDelay": 37.52,
-      "majorDelays": 10
+      "onTimePct": 68.4,
+      "avgDelay": 38.86,
+      "majorDelays": 8
     },
     {
       "line": "CHE",
       "avgTrainsPerSample": 2,
-      "onTimePct": 60.4,
-      "avgDelay": 3.43,
+      "onTimePct": 62.7,
+      "avgDelay": 3.27,
       "majorDelays": 4
     },
     {
       "line": "LAN",
-      "avgTrainsPerSample": 3.9,
-      "onTimePct": 57.4,
-      "avgDelay": 22.26,
-      "majorDelays": 15
+      "avgTrainsPerSample": 3.8,
+      "onTimePct": 56.3,
+      "avgDelay": 23.26,
+      "majorDelays": 14
     },
     {
       "line": "MED",
       "avgTrainsPerSample": 2.9,
-      "onTimePct": 51.8,
-      "avgDelay": 110.16,
-      "majorDelays": 20
+      "onTimePct": 55,
+      "avgDelay": 104.11,
+      "majorDelays": 17
     },
     {
       "line": "CHW",
-      "avgTrainsPerSample": 1.7,
-      "onTimePct": 50,
-      "avgDelay": 160.34,
-      "majorDelays": 8
+      "avgTrainsPerSample": 1.8,
+      "onTimePct": 51.4,
+      "avgDelay": 164.08,
+      "majorDelays": 7
+    },
+    {
+      "line": "WIL",
+      "avgTrainsPerSample": 2.3,
+      "onTimePct": 49,
+      "avgDelay": 120.35,
+      "majorDelays": 11
     },
     {
       "line": "WAR",
       "avgTrainsPerSample": 2.8,
-      "onTimePct": 48.4,
-      "avgDelay": 113.11,
+      "onTimePct": 47.1,
+      "avgDelay": 118.22,
       "majorDelays": 15
     },
     {
-      "line": "WIL",
-      "avgTrainsPerSample": 2.5,
-      "onTimePct": 47.4,
-      "avgDelay": 143.05,
-      "majorDelays": 14
+      "line": "TRE",
+      "avgTrainsPerSample": 2.7,
+      "onTimePct": 43.8,
+      "avgDelay": 67.96,
+      "majorDelays": 15
     },
     {
-      "line": "TRE",
-      "avgTrainsPerSample": 2.6,
-      "onTimePct": 45.7,
-      "avgDelay": 54.89,
-      "majorDelays": 14
+      "line": "WTR",
+      "avgTrainsPerSample": 2.8,
+      "onTimePct": 43.2,
+      "avgDelay": 125.27,
+      "majorDelays": 17
     },
     {
       "line": "NOR",
       "avgTrainsPerSample": 2.4,
-      "onTimePct": 40.6,
-      "avgDelay": 163.96,
-      "majorDelays": 18
+      "onTimePct": 42.4,
+      "avgDelay": 171.15,
+      "majorDelays": 17
     },
     {
       "line": "PAO",
       "avgTrainsPerSample": 3.5,
-      "onTimePct": 40.2,
-      "avgDelay": 63.25,
-      "majorDelays": 18
-    },
-    {
-      "line": "WTR",
-      "avgTrainsPerSample": 2.9,
-      "onTimePct": 39.7,
-      "avgDelay": 119.15,
+      "onTimePct": 39.8,
+      "avgDelay": 75.71,
       "majorDelays": 18
     },
     {
       "line": "FOX",
-      "avgTrainsPerSample": 1.7,
-      "onTimePct": 39.5,
-      "avgDelay": 213.18,
+      "avgTrainsPerSample": 1.8,
+      "onTimePct": 35.1,
+      "avgDelay": 218.97,
       "majorDelays": 11
     },
     {
       "line": "CYN",
-      "avgTrainsPerSample": 2.4,
-      "onTimePct": 25,
-      "avgDelay": 749.33,
+      "avgTrainsPerSample": 2.8,
+      "onTimePct": 18.2,
+      "avgDelay": 817.45,
       "majorDelays": 9
     }
   ],
@@ -207,9 +207,9 @@
     },
     {
       "hour": 17,
-      "onTimePct": 35.8,
-      "avgDelay": 61.02,
-      "samples": 1
+      "onTimePct": null,
+      "avgDelay": 0,
+      "samples": 0
     },
     {
       "hour": 18,
@@ -219,9 +219,9 @@
     },
     {
       "hour": 19,
-      "onTimePct": null,
-      "avgDelay": 0,
-      "samples": 0
+      "onTimePct": 57.6,
+      "avgDelay": 62.7,
+      "samples": 1
     },
     {
       "hour": 20,
